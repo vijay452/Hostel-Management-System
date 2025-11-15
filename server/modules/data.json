@@ -1,0 +1,438 @@
+{
+    "rooms": [
+        {
+            "_id": "r101",
+            "roomNumber": "101",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 2,
+            "isAvailable": false
+        },
+        {
+            "_id": "r102",
+            "roomNumber": "102",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 2,
+            "isAvailable": false
+        },
+        {
+            "_id": "r103",
+            "roomNumber": "103",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 2,
+            "isAvailable": false
+        },
+        {
+            "_id": "r104",
+            "roomNumber": "104",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 1,
+            "isAvailable": true
+        },
+        {
+            "_id": "r105",
+            "roomNumber": "105",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r106",
+            "roomNumber": "106",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r107",
+            "roomNumber": "107",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r108",
+            "roomNumber": "108",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r109",
+            "roomNumber": "109",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r110",
+            "roomNumber": "110",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r201",
+            "roomNumber": "201",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r202",
+            "roomNumber": "202",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r203",
+            "roomNumber": "203",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r204",
+            "roomNumber": "204",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r205",
+            "roomNumber": "205",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r206",
+            "roomNumber": "206",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r207",
+            "roomNumber": "207",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r208",
+            "roomNumber": "208",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r209",
+            "roomNumber": "209",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r210",
+            "roomNumber": "210",
+            "type": "Standard",
+            "capacity": 2,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r301",
+            "roomNumber": "301",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r302",
+            "roomNumber": "302",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r303",
+            "roomNumber": "303",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r304",
+            "roomNumber": "304",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r305",
+            "roomNumber": "305",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r306",
+            "roomNumber": "306",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r307",
+            "roomNumber": "307",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r308",
+            "roomNumber": "308",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r309",
+            "roomNumber": "309",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r310",
+            "roomNumber": "310",
+            "type": "Deluxe",
+            "capacity": 3,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r401",
+            "roomNumber": "401",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r402",
+            "roomNumber": "402",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r403",
+            "roomNumber": "403",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r404",
+            "roomNumber": "404",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r405",
+            "roomNumber": "405",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r406",
+            "roomNumber": "406",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r407",
+            "roomNumber": "407",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r408",
+            "roomNumber": "408",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r409",
+            "roomNumber": "409",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        },
+        {
+            "_id": "r410",
+            "roomNumber": "410",
+            "type": "Premium",
+            "capacity": 1,
+            "occupants": 0,
+            "isAvailable": true
+        }
+    ],
+    "students": [
+        {
+            "_id": "1762755033552",
+            "studentID": "24011317",
+            "name": "Vijay Kumar",
+            "roomNumber": "103",
+            "course": "Pending",
+            "status": "Active"
+        },
+        {
+            "_id": "1762755214608",
+            "studentID": "24011318",
+            "name": "Ramesh Sharma",
+            "roomNumber": "101",
+            "course": "Pending"
+        },
+        {
+            "_id": "1762755451746",
+            "studentID": "240113188",
+            "name": "Priya Singh",
+            "roomNumber": "102",
+            "course": "Pending"
+        },
+        {
+            "_id": "1762755660456",
+            "studentID": "2401158",
+            "name": "Mohit Patel",
+            "roomNumber": "102",
+            "course": "Pending"
+        },
+        {
+            "_id": "1762756250086",
+            "studentID": "2401",
+            "name": "Nirmal",
+            "roomNumber": "103",
+            "course": "Pending",
+            "status": "Active"
+        },
+        {
+            "studentID": "123456",
+            "name": "ayush",
+            "roomNumber": "104",
+            "course": "Pending",
+            "status": "Active"
+        }
+    ],
+    "complaints": [
+        {
+            "id": "C1762759208664hn",
+            "studentID": "123456",
+            "roomNumber": "104",
+            "issue": "broken ac",
+            "status": "New",
+            "date": "10/11/2025"
+        }
+    ],
+    "logs": [
+        {
+            "id": "1762757801353",
+            "studentID": "24011317",
+            "studentName": "Vijay Kumar",
+            "type": "entry",
+            "timestamp": "2025-11-10T06:56:41.353Z"
+        },
+        {
+            "id": "1762757814523",
+            "studentID": "24011317",
+            "studentName": "Vijay Kumar",
+            "type": "exit",
+            "timestamp": "2025-11-10T06:56:54.523Z"
+        },
+        {
+            "id": "1762758043189",
+            "studentID": "24011317",
+            "studentName": "Vijay Kumar",
+            "type": "entry",
+            "timestamp": "2025-11-10T07:00:43.189Z"
+        },
+        {
+            "id": "1762758055913",
+            "studentID": "24011317",
+            "studentName": "Vijay Kumar",
+            "type": "exit",
+            "timestamp": "2025-11-10T07:00:55.913Z"
+        },
+        {
+            "id": "1762758156038",
+            "studentID": "24011317",
+            "studentName": "Vijay Kumar",
+            "type": "exit",
+            "timestamp": "2025-11-10T07:02:36.038Z"
+        },
+        {
+            "id": "316464g7m",
+            "studentID": "24011317",
+            "studentName": "Vijay Kumar",
+            "type": "EXIT",
+            "timestamp": "2025-11-10T07:05:16.464Z"
+        },
+        {
+            "id": "5406064o8",
+            "studentID": "24011317",
+            "studentName": "Vijay Kumar",
+            "type": "ENTRY",
+            "timestamp": "2025-11-10T07:09:00.606Z"
+        },
+        {
+            "id": "1762759153358",
+            "studentID": "123456",
+            "studentName": "ayush",
+            "type": "EXIT",
+            "timestamp": "2025-11-10T07:19:13.358Z"
+        }
+    ]
+}
